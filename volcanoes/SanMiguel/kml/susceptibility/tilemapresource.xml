@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>susceptibility</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-88.34945313032206" miny="13.33758466136044" maxx="-88.16865147243490" maxy="13.52854768584586"/>
+      <Origin x="-88.34945313032206" y="13.33758466136044"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="http://multiriskprevention.com/volcanoes/SanMiguel/kml/susceptibility/10" units-per-pixel="152.87405654296876" order="10"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/SanMiguel/kml/susceptibility/11" units-per-pixel="76.43702827148438" order="11"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/SanMiguel/kml/susceptibility/12" units-per-pixel="38.21851413574219" order="12"/>
+      </TileSets>
+    </TileMap>
+    

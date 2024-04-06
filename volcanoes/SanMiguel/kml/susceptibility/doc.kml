@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>susceptibility</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <name>10/260/550.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>13.58192090054583</north>
+          <south>13.23994549928631</south>
+          <east>-88.24218750000000</east>
+          <west>-88.59375000000000</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>http://multiriskprevention.com/volcanoes/SanMiguel/kml/susceptibility/10/260/550.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+        
+    <NetworkLink>
+      <name>10/261/550.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>13.58192090054583</north>
+          <south>13.23994549928631</south>
+          <east>-87.89062500000001</east>
+          <west>-88.24218750000000</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>http://multiriskprevention.com/volcanoes/SanMiguel/kml/susceptibility/10/261/550.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+              </Document>
+</kml>
+    

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>susceptibility_map_ElHierro_10x10m.tif</name>
+	<description>Source Image: C:/Users/mekag/Desktop/vboxfendtest1/El Hierro/susceptibility_map/susceptibility_map_ElHierro_10x10m.tif</description>
+	<Icon>
+		<href>files/susceptibility_map_ElHierro_10x10m_scaled.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>27.85010810439567</north>
+		<south>27.63396359893491</south>
+		<east>-17.87842907862469</east>
+		<west>-18.16480840541045</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

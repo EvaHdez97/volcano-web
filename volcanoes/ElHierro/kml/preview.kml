@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>hazard_map_ElHierro_5mx5m.tif</name>
+	<description>hazard_map_ElHierro_5mx5m.tif</description>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<LatLonBox>
+		<north>27.85053696804804</north>
+		<south>27.63388110371445</south>
+		<east>-17.87840002521892</east>
+		<west>-18.16484617806346</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

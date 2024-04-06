@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>11/920/1189.kml</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <Region>
+      <LatLonAltBox>
+        <north>27.99440141104617</north>
+        <south>27.83907609477784</south>
+        <east>-18.10546875000001</east>
+        <west>-18.28125000000000</west>
+      </LatLonAltBox>
+      <Lod>
+        <minLodPixels>128</minLodPixels>
+        <maxLodPixels>2048</maxLodPixels>
+      </Lod>
+    </Region>
+    <GroundOverlay>
+      <drawOrder>22</drawOrder>
+      <Icon>
+        <href>1189.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>27.99440141104617</north>
+        <south>27.83907609477784</south>
+        <east>-18.10546875000001</east>
+        <west>-18.28125000000000</west>
+      </LatLonBox>
+    </GroundOverlay>
+
+    <NetworkLink>
+      <name>12/1841/2378.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>27.91676664124909</north>
+          <south>27.83907609477784</south>
+          <east>-18.10546875000001</east>
+          <west>-18.19335937500000</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>http://multiriskprevention.com/volcanoes/ElHierro/kml/lavaflow/12/1841/2378.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+              </Document>
+</kml>
+    

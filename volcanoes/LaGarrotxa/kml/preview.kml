@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType></listItemType>
+</ListStyle>
+</Style>
+<name></name>
+<NetworkLink>
+<name></name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+</Region>
+<Link>
+<href></href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>2.5000000</longitude>
+<latitude>42.1666700</latitude>
+<altitude>0</altitude>
+<range>19918.27639100796300</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>

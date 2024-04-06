@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>susceptibility</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <name>8/117/149.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>29.53522956294844</north>
+          <south>28.30438068296278</south>
+          <east>-14.06249999999999</east>
+          <west>-15.46875000000001</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>http://multiriskprevention.com/volcanoes/Lanzarote/kml/susceptibility/8/117/149.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+        
+    <NetworkLink>
+      <name>8/118/149.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>29.53522956294844</north>
+          <south>28.30438068296278</south>
+          <east>-12.65624999999999</east>
+          <west>-14.06249999999999</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>http://multiriskprevention.com/volcanoes/Lanzarote/kml/susceptibility/8/118/149.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+              </Document>
+</kml>
+    

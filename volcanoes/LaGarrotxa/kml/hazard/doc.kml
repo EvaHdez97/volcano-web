@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>hazard</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <name>9/259/321.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>42.03297433244141</north>
+          <south>41.50857729743932</south>
+          <east>2.81249999999999</east>
+          <west>2.10937500000001</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>http://multiriskprevention.com/volcanoes/LaGarrotxa/kml/hazard/9/259/321.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+        
+    <NetworkLink>
+      <name>9/259/322.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>42.55308028895580</north>
+          <south>42.03297433244141</south>
+          <east>2.81249999999999</east>
+          <west>2.10937500000001</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>http://multiriskprevention.com/volcanoes/LaGarrotxa/kml/hazard/9/259/322.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+              </Document>
+</kml>
+    

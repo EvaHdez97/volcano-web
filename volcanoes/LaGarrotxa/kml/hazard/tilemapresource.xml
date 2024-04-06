@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>hazard</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="2.34855125368157" miny="41.90879128904002" maxx="2.76763372222706" maxy="42.23964490834078"/>
+      <Origin x="2.34855125368157" y="41.90879128904002"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="http://multiriskprevention.com/volcanoes/LaGarrotxa/kml/hazard/9" units-per-pixel="305.74811308593752" order="9"/>
+      </TileSets>
+    </TileMap>
+    

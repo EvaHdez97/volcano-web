@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>lavaflow</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-13.88268956865431" miny="28.83491522189461" maxx="-13.41548097315359" maxy="29.41962100958462"/>
+      <Origin x="-13.88268956865431" y="28.83491522189461"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="http://multiriskprevention.com/volcanoes/Lanzarote/kml/lavaflow/9" units-per-pixel="305.74811308593752" order="9"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/Lanzarote/kml/lavaflow/10" units-per-pixel="152.87405654296876" order="10"/>
+      </TileSets>
+    </TileMap>
+    

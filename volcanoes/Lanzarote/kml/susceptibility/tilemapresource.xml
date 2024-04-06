@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>susceptibility</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-14.07084611943733" miny="28.74108246189514" maxx="-13.21202983192191" maxy="29.42636052240675"/>
+      <Origin x="-14.07084611943733" y="28.74108246189514"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="http://multiriskprevention.com/volcanoes/Lanzarote/kml/susceptibility/8" units-per-pixel="611.49622617187504" order="8"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/Lanzarote/kml/susceptibility/9" units-per-pixel="305.74811308593752" order="9"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/Lanzarote/kml/susceptibility/10" units-per-pixel="152.87405654296876" order="10"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/Lanzarote/kml/susceptibility/11" units-per-pixel="76.43702827148438" order="11"/>
+      </TileSets>
+    </TileMap>
+    

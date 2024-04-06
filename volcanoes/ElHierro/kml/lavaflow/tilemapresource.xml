@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>lavaflow</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-18.16627053144471" miny="27.63266176462855" maxx="-17.87217501793052" maxy="27.86793855493172"/>
+      <Origin x="-18.16627053144471" y="27.63266176462855"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="http://multiriskprevention.com/volcanoes/ElHierro/kml/lavaflow/10" units-per-pixel="152.87405654296876" order="10"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/ElHierro/kml/lavaflow/11" units-per-pixel="76.43702827148438" order="11"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/ElHierro/kml/lavaflow/12" units-per-pixel="38.21851413574219" order="12"/>
+        <TileSet href="http://multiriskprevention.com/volcanoes/ElHierro/kml/lavaflow/13" units-per-pixel="19.10925706787109" order="13"/>
+      </TileSets>
+    </TileMap>
+    
